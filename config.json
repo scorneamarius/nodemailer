@@ -1,0 +1,8 @@
+{
+    "port" : 465 ,
+    "service" : "gmail",
+    "auth": {
+            "user" : "*",
+            "pass" : "*"
+    }
+}
